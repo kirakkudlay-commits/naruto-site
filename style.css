@@ -26,8 +26,8 @@ body {
 .hero {
   min-height: 100vh;
   background:
-    linear-gradient(135deg, rgba(15,15,30,0.75), rgba(230,91,0,0.55)),
-    url('https://images.unsplash.com/photo-1528164344705-47542687000d?w=1600') center/cover no-repeat;
+    linear-gradient(135deg, rgba(15,15,30,0.78), rgba(230,91,0,0.45)),
+    url('images/shippuden_anime.jpg') center/cover no-repeat;
   color: white;
   display: flex;
   flex-direction: column;
